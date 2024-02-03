@@ -58,7 +58,7 @@ node server.js
 
 GITHUB link: (https://github.com/pauljsully/Mod10-OOP-SVG-Logo-Maker.git)
 
-## Screenshots and Video Demonstration
+## Screenshots
 
 npm i and node index.js
 ![Project Screenshot](./assets/img/npmindex.png)
@@ -66,9 +66,12 @@ npm i and node index.js
 npm test
 ![Project Screenshot](./assets/img/npmtest.png)
 
-logo created
+### Logo
+
 ![Project Screenshot](./assets/img/logo.png)
 
+
+## Video Demonstration
 
 ![Project GIF](./assets/gif/OOP-SVG-LogoMaker.gif)
 
