@@ -7,6 +7,9 @@
 - [Getting Started](#getting-started)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
+  - [Logo](#logo)
+- [Walkthrough](#video-demonstration)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -74,7 +77,6 @@ npm test
 ## Video Demonstration
 
 ![Project GIF](./assets/gif/OOP-SVG-LogoMaker.gif)
-
 
 
 ## License
